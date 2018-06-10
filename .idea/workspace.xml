@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4453396e-e71a-4961-ad15-62a067835c7d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/marchchallenge2018/chef_and_glove.cpp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ALEXTASK.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ALEXTASK.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/November challenge 2016/ALEXTASK.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="497">
               <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PALINGAM.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/August challenge 2017/PALINGAM.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -46,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/November challenge 2016/CHSR.cpp" />
         <option value="$PROJECT_DIR$/November challenge 2016/ALEXTASK.cpp" />
+        <option value="$PROJECT_DIR$/August challenge 2017/PALINGAM.cpp" />
       </list>
     </option>
   </component>
@@ -86,7 +97,7 @@
             <path>
               <item name="codechef" type="b2602c69:ProjectViewProjectNode" />
               <item name="codechef" type="462c0819:PsiDirectoryNode" />
-              <item name="November challenge 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="August challenge 2017" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528633932674</updated>
-      <workItem from="1528633934303" duration="186000" />
+      <workItem from="1528633934303" duration="546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186000" />
+    <option name="totallyTimeSpent" value="546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,6 +197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/August challenge 2017/PALINGAM.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
           <folding />
         </state>
       </provider>
